@@ -10,6 +10,6 @@ public class App
 {
     public static void main( String[] args )
     {
-      HipchatUtils.sendMessageRoom("", "test amessage", HipChatClient.Color_Msg_Green);
+      HipchatUtils.sendMessageRoom("", "test message", HipChatClient.Color_Msg_Green);
     }
 }
