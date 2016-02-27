@@ -4,6 +4,7 @@ import com.mashape.unirest.http.Unirest;
 
 public class HipChatClient extends Unirest {
 	public static String baseUrl = "https://api.hipchat.com/v2";
+	// add your application token here
 	public static String auth_token = "your token";
 	public static String Color_Msg_Yellow = "yellow";
 	public static String Color_Msg_Green = "green";
