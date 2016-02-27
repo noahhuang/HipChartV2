@@ -9,7 +9,7 @@ import com.hipchart.v2.model.Rooms;
 
 public class HipchatUtils {
 	// ENVIRONMENT DEPENDENT
-	private static String TEST_ROOM_NAME = "Diagnosis";
+	private static String TEST_ROOM_NAME = "test";
 	private static List<Document> messages = new ArrayList<>();
 	public static String host = "";
 
