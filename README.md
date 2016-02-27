@@ -1,18 +1,18 @@
 # HipChartV2
-
+#API reference
 https://www.hipchat.com/docs/apiv2
 
-Room:
-apiGetAllRooms
-apiGetRecentRoomHistory
-apiGetRoomMembers
-sendRoomNotification
-getRoom
-getRoomMessages
-getRoomMembers
+## Room:
+1. apiGetAllRooms
+1. apiGetRecentRoomHistory
+1. apiGetRoomMembers
+1. sendRoomNotification
+1. getRoom
+1. getRoomMessages
+1. getRoomMembers
 
-Users:
-apiGetAllUsers
-apiSendUserNotification
-getUsers
-getUser
+## Users:
+1. apiGetAllUsers
+1. apiSendUserNotification
+1. getUsers
+1. getUser
